@@ -58,7 +58,7 @@ First, ensure you have Python installed. Then, install Flask in a virtual enviro
 ```bash
 mkdir flask_project
 cd flask_project
-python3 -m venv venv
+python3 -m venv myvenv
 source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
 pip install Flask
 
