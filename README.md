@@ -7,9 +7,24 @@ This is a simple Flask project that demonstrates how to create a basic web appli
 - Basic routing with home page,About page,Product page,Contact page, Login page, Admin Dashboard page
 - Extendable structure with static files and templates
 
-- ## Screenshot
-
+- ## Login Page
 ![img1](https://github.com/user-attachments/assets/44721904-8237-49d2-9155-0e6e5cfbf72f)
+
+ ## Admin Page
+![admin](https://github.com/user-attachments/assets/1daa56f4-9cc0-41e1-b0e0-a1157b415a9c)
+ ## Home Page
+![home](https://github.com/user-attachments/assets/28878462-d18e-4982-9ced-3e37dc3bdd8a)
+
+ ## About Page
+ ![about](https://github.com/user-attachments/assets/c19f6a1a-a8fc-48c0-ab73-70218263b5c6)
+
+ ## Products Page
+ ![products](https://github.com/user-attachments/assets/7db1b164-a402-41c1-86d0-b81408728fb7)
+
+ ## Contact Page
+![contact](https://github.com/user-attachments/assets/8d280f02-7749-453c-8f79-670448c2ef46)
+
+   
 
 ## Flask
 
