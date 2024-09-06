@@ -9,7 +9,7 @@ This is a simple Flask project that demonstrates how to create a basic web appli
 
 - ## Screenshot
 
-![Screenshot](./images/img1.png)
+![img1](https://github.com/user-attachments/assets/44721904-8237-49d2-9155-0e6e5cfbf72f)
 
 ## Flask
 
