@@ -7,6 +7,10 @@ This is a simple Flask project that demonstrates how to create a basic web appli
 - Basic routing with home page,About page,Product page,Contact page, Login page, Admin Dashboard page
 - Extendable structure with static files and templates
 
+- ## Screenshot
+
+![Screenshot](./images/img1.png)
+
 ## Flask
 
 Python Flask is a micro web framework written in Python. It's designed to be lightweight, simple, and easy to use, making it a popular choice for developing web applications. Flask provides the essential tools to build web applications, such as routing (URL mapping), request handling, and template rendering, but it doesn't include many features out of the box. This minimalist approach allows developers to add only the components they need, making Flask flexible and scalable for both small and large applications.
